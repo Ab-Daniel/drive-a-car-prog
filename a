@@ -1,0 +1,25 @@
+
+public class Car 
+{
+	
+	public Car () //sets the mpg equal to miles/gallon
+	{
+		
+		gallon = 0;
+		
+	}
+	
+	public Car (double mpg)
+	{
+		
+		mpg = miles/gallon;
+		
+	}
+	
+	private drive 
+	
+	private int miles;
+	
+	private double gallon;
+	
+}
