@@ -16,7 +16,24 @@ public class Car
 		
 	}
 	
-	private drive 
+	public double drive (int travel)
+	{
+		
+		gallons = gallons - gallons/miles * travel;
+		
+	}
+	
+	public double addGas(int dasdasdasd)
+	{
+		
+		gallons = gallons + dasdasdasd;
+		
+	}
+	
+	public double getGas;
+	{
+		return gallons;
+	}
 	
 	private int miles;
 	
